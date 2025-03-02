@@ -26,13 +26,13 @@ git clone https://github.com/abhishek.kr23/DevSpace.git
 cd DevSpace
 
 
-2. Install Dependencies
+2. Install Dependencies:
 npm install
 
-3. Run the Server
+3. Run the Server:
 node server.js
 
-4. Visit
+4. Visit:
 👉 http://localhost:5000
 
 
@@ -42,4 +42,4 @@ node server.js
 
 
 ## Live Demo
-[Live Website]([https://your-live-link.com](https://devspace-tp01.onrender.com/))
+👉 [Live Website](https://devspace-tp01.onrender.com/)
